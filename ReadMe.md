@@ -25,11 +25,7 @@ To run this project, you will need to have Node.js and Expo CLI installed on you
   git clone https://github.com/yourusername/weatherapp.git
 
 
-2. Navigate to the project directory:
-
- 
-*
-  ```bash
+2. Navigate to the project directory:   ```bash
   cd weatherapp
 3. Install dependencies:
 
