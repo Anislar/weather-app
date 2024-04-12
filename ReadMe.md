@@ -20,19 +20,29 @@ To run this project, you will need to have Node.js and Expo CLI installed on you
 # Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/weatherapp.git
+
+  ```bash
+  git clone https://github.com/yourusername/weatherapp.git
+
 
 2. Navigate to the project directory:
-cd weatherapp
+
+  ```bash
+  cd weatherapp
 
 3. Install dependencies:
-npm install
+
+  ```bash
+  npm install
 
 4. Create a file named .env in the root directory of the project and add your API key:
 EXPO_PUBLIC_API_KEY=your_openweathermap_api_key_here
 
 5. Start the development server:
-expo start
+
+  ```bash
+  npm start
+
 
 
 # Usage
