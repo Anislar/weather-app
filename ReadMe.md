@@ -22,7 +22,7 @@ To run this project, you will need to have Node.js and Expo CLI installed on you
 1. Clone the repository:
 
 
-  git clone https://github.com/yourusername/weatherapp.git
+  git clone https://github.com/Anislar/weather-app
 
 
 2. Navigate to the project directory:   ```bash
