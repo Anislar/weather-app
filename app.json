@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "fruit-app",
-    "slug": "fruit-app",
+    "name": "weather-app",
+    "slug": "weather-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/heavyrain.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ccc"
     },
     "assetBundlePatterns": [
       "**/*"
