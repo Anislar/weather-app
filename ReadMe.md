@@ -12,7 +12,7 @@ To run this project, you will need to have Node.js and Expo CLI installed on you
 - npm (comes with Node.js)
 -Expo CLI
 
-```bash
+- ```bash
   npm install -g expo-cli
 
 - An API key from OpenWeatherMap
